@@ -1,7 +1,7 @@
 const veiculos = {
     "NENHUM": 0,
     "Caminhão pequeno R$1990": 1990,
-    "Caminhão 2 eixos médio (3/4) R$2050": 2050,
+    "Caminhão 2 eixos médio (3/4) R$2160": 2160,
     "Caminhão 2 eixos grande (toco) R$2190": 2190,
     "Caminhão 3 eixos (truck) R$2290": 2290,
     "Caminhão 4 eixos (bi-truck) R$2450": 2450,
@@ -15,7 +15,7 @@ const veiculos = {
     "Ford Transit ou similar R$2070": 2070,
     "Sprinter 16 passageiros R$2190": 2190,
     "Sprinter 20 passageiros R$2260": 2290,
-    "Sprinter Chassis R$2160": 2160,
+    "Sprinter Chassis R$1990": 1990,
     "Sprinter Furgão Extra Longa R$2290": 2290,
     "Sprinter Furgão normal R$2190": 2190,
     "Sprinter Furgão teto alto R$2260": 2260
